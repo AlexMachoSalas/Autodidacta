@@ -1,3 +1,30 @@
 .Cabezal{
-    height: 500px;
+    height: 100px;
+    background-color: rgb(241, 196, 127);
+}
+.Titulo{
+    text-align: center;
+    color: rgb(0, 4, 255);
+}
+body{
+    background-color: bisque;
+}
+.boton-nav{
+    border: 5px solid #DEB887;
+    border-radius: 10px;
+    height: 25px;
+    width: 305px;
+    margin: 0px;
+}
+a:hover{
+    color: #DEB887;
+}
+nav{
+    text-align: center;
+}
+.boton-nav1{
+    border: 0px;
+    background-color: #DEB887;
+    height: 20px;
+    margin: 0px;
 }
